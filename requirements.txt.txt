@@ -1,0 +1,6 @@
+pandas
+SQLAlchemy
+PyMySQL
+openpyxl
+fpdf2
+python-dotenv
